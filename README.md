@@ -9,7 +9,8 @@ A simple Python-based banking application that supports **savings** and **curren
 - Deposit and withdraw funds
 - Track account balances
   
-CONTRIBUTORS 
+CONTRIBUTORS
+ 
 -Ukane Praise; current.py & current_account.py
 
 -Nathan Myiriya; current_account.py & home.py
