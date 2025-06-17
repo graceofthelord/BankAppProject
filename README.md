@@ -11,7 +11,10 @@ A simple Python-based banking application that supports **savings** and **curren
   
 CONTRIBUTORS 
 -Ukane Praise; current.py & current_account.py
+
 -Nathan Myiriya; current_account.py & home.py
+
 -Nancy Charles; savings.py & savings_account.py
+
 -Favour Olowu Ehi; account.py
 
